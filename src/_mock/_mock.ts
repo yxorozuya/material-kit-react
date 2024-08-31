@@ -31,8 +31,8 @@ export const _times = (index: number) =>
 
 export const _fullName = (index: number) =>
   [
-    'Billy Stoltenberg',
-    'Eloise Ebert',
+    'Apple',
+    'Cat',
     'Teresa Luettgen',
     'Salvador Mayert',
     'Dr. Guadalupe Rath',
